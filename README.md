@@ -126,23 +126,18 @@ The trained models are evaluated using:
 customer-churn/
 │
 ├── artifacts/
-│
 ├── data/
-│
 ├── data_validation/
-│
 ├── experiments/
-│
 ├── src/
-│
 ├── templates/
-│
 ├── app.py
 ├── main.py
 ├── requirements.txt
 ├── setup.py
 ├── README.md
 └── .gitignore
+```
 
 ## Installation
 
